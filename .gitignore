@@ -1,0 +1,7 @@
+tests/compileToSingle/a.d.ts
+tests/compileToSingle/b.d.ts
+tests/compileToSingle/a.js
+tests/compileToSingle/a.js.map
+tests/compileToSingle/b.js
+tests/compileToSingle/b.js.map
+tests/compileToSingle/out.js

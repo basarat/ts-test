@@ -1,0 +1,3 @@
+// some interface 
+interface C{
+}
