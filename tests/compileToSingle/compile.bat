@@ -1,4 +1,3 @@
 REM TS9:
-"../../tsc9/tsc" --out "out.js" b.ts a.ts
-"../../tsc9/tsc" --declaration a.ts b.ts dec.d.ts
+"../../tsc9/tsc" -c --out "out.js" --declaration b.ts a.ts dec.d.ts
 pause
