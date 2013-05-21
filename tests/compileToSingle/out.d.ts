@@ -1,3 +1,5 @@
+interface C {
+}
 declare class A {
     constructor();
 }

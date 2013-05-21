@@ -1,4 +1,4 @@
-/// <reference path="dec.d.ts" />
+/// <reference path="dec.ts" />
 /// <reference path="a.ts" />
 
 /**
